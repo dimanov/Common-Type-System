@@ -1,0 +1,6 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\03. BitArray64\bin\Debug\_03.BitArray64.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\03. BitArray64\bin\Debug\_03.BitArray64.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\03. BitArray64\bin\Debug\_03.BitArray64.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\03. BitArray64\obj\Debug\_03.BitArray64.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\03. BitArray64\obj\Debug\_03.BitArray64.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\03. BitArray64\obj\Debug\03. BitArray64.csprojResolveAssemblyReference.cache

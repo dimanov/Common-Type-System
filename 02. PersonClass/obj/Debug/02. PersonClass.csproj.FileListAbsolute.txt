@@ -1,0 +1,5 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\02. PersonClass\bin\Debug\_02.PersonClass.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\02. PersonClass\bin\Debug\_02.PersonClass.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\02. PersonClass\bin\Debug\_02.PersonClass.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\02. PersonClass\obj\Debug\_02.PersonClass.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\02. PersonClass\obj\Debug\_02.PersonClass.pdb

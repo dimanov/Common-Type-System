@@ -1,0 +1,9 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\01. Student class\bin\Debug\_01.Student_class.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\01. Student class\bin\Debug\_01.Student_class.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\01. Student class\bin\Debug\_01.Student_class.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\01. Student class\obj\Debug\01. Student class.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\01. Student class\obj\Debug\_01.Student_class.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\05. OOP Principles - Part 2\06. Common Type System\01. Student class\obj\Debug\_01.Student_class.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\06. Common Type System\01. Student class\bin\Debug\_01.Student_class.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\06. Common Type System\01. Student class\obj\Debug\_01.Student_class.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\OOP\06. Common Type System\01. Student class\obj\Debug\_01.Student_class.pdb
